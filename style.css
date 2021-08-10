@@ -409,6 +409,13 @@ section .title::after{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
+    
+}
+.teams .carousel .card .text-1{
+    font-size: 200px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+    
 }
 .teams .carousel .card img{
     height: 150px;
@@ -552,6 +559,23 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
+.footer-social .title{
+    text-align: center;
+    padding: 15px 20px;
+    margin: auto;
+    font-size: 20px;
+    /* color: ; */
+
+}
+.footer-social a{
+    font-size: xx-large;
+    color: crimson;
+    margin: -6px 7px;
+}
+.footer-social a:hover{
+    opacity: 0.7;
+}
+
 
 
 
